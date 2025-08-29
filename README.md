@@ -65,24 +65,23 @@ Titanic-EDA/
 **1. Clone this repository:**  
 
 ```bash
-
 git clone https://github.com/itsemhee/Titanic-EDA.git
 
 
 
-**2.Navigate to the project folder:**
+**2. Navigate to the project folder:**
 
 cd Titanic-EDA
 
 
 
-**3.Install dependencies:**
+**3. Install dependencies:**
 
 pip install -r requirements.txt
 
 
 
-**4.Open the notebook:**
+**4. Open the notebook:**
 
 jupyter notebook Titanic_EDA.ipynb
 
