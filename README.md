@@ -71,15 +71,15 @@ git clone https://github.com/itsemhee/Titanic-EDA.git
 
 
 **2. Navigate to the project folder:**
-
+```bash
 cd Titanic-EDA
-
+```
 
 
 **3. Install dependencies:**
-
+```bash
 pip install -r requirements.txt
-
+```
 
 
 **4. Open the notebook:**
