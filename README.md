@@ -66,7 +66,7 @@ Titanic-EDA/
 
 ```bash
 
-git clone https://github.com/yourusername/Titanic-EDA.git
+git clone https://github.com/itsemhee/Titanic-EDA.git
 
 
 
@@ -84,7 +84,7 @@ pip install -r requirements.txt
 
 **4.Open the notebook:**
 
-jupyter notebook Titanic\_EDA.ipynb
+jupyter notebook Titanic_EDA.ipynb
 
 
 
